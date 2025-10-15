@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210216391225",
+    "project_id": "mobile-uts-soal-2",
+    "storage_bucket": "mobile-uts-soal-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210216391225:android:80cb90c643b7bdce96f3e8",
+        "android_client_info": {
+          "package_name": "com.example.bungacinta_utsmobile_046_no2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMI1UwgEtS18pbNBYbbZC3-u9FrR7tHiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
